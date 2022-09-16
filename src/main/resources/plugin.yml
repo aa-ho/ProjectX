@@ -1,0 +1,7 @@
+name: ProjectX
+version: '${project.version}'
+main: thefaces.projectx.ProjectX
+api-version: 1.19
+authors: [ Thefaces ]
+description: My first public plugin
+website: Noob-Games.net
